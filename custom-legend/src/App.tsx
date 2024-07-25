@@ -46,7 +46,7 @@ const LegendContent = () => {
 const Legend = () => {
   return (
     <div
-      style={{ backgroundColor: "white", margin: "10px 10px 25px", padding: "10px" }}
+      style={{ backgroundColor: "rgb(255, 255, 255, 0.8)", margin: "10px 10px 25px", padding: "10px" }}
       className="leaflet-bottom leaflet-right"
     >
       <LegendContent />
