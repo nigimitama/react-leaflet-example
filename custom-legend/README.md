@@ -6,4 +6,4 @@ An example code below shows the way with old-version Leaflet & React leaflet
 
 This directory contains an example code for newer-versions of Leaflet
 
-![image-20240725234319546](images/image-20240725234319546.png)
+![image-20240726080414570](images/image-20240726080414570.png)
